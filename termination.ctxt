@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=termination
+comment0.text=\n\ Write\ a\ description\ of\ class\ termination\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=time\ station
+comment1.target=termination(double,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ termination\n
+comment2.params=obj\ e1
+comment2.target=void\ terminationEvent(initialize,\ event)
+numComments=3

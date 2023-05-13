@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=initiation
+comment0.text=\n\ Write\ a\ description\ of\ class\ initiation\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=initiation()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ initiation\n
+comment2.params=time\ speed\ station\ pos\ duration\ direction
+comment2.target=initiation(double,\ double,\ int,\ double,\ double,\ java.lang.String)
+comment3.params=obj\ FCA
+comment3.target=void\ initiationEvent(initialize,\ int)
+numComments=4
