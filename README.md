@@ -1,4 +1,4 @@
-# Simulation-And-Modelling, Telephony network across a highwau
+# Simulation-And-Modelling, Telephony network across a highway
 
 ## Project Description
 The intent of this project is to simulate a telephony network across a highway. Calls and positions of calls are drawn from a random variate.
